@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "submodule-update": "git submodule sync --recursive && git submodule update --init --recursive",
+    "submodule-init": "git submodule sync --recursive && git submodule update --init --recursive",
+    "submodule-update": "git submodule update --remote",
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
