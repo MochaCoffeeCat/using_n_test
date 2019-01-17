@@ -1,0 +1,3 @@
+[submodule "src/components/Nelumbo"]
+	path = src/components/Nelumbo
+	url = https://github.com/MochaCoffeeCat/Nelumbo.git
